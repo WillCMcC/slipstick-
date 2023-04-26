@@ -2,7 +2,7 @@
 
 This project is a Python-based synthesizer that allows you to generate sounds using slip-stick simulation and various sound waveform types such as sine, sawtooth, and square waves. The synthesizer also provides various sliders to control the sound parameters like duration, mass, stiffness, damping, friction, pitch, attack, decay, sustain, release, modulation index, modulation frequency, low-pass filter, resonance, high-pass filter, and distortion.
 
-There are 3 synths, gen2, gen3, and gen4. gen2 is weird. gen3 is plucky. gen4 is fancy. Im not solid on any of the physics so this is a work in progress and any feedback or PRs are greatly appreciated! 
+There are 4 synths, gen2, gen3, and gen4. gen2 is weird. gen3 is plucky. gen4 is fancy, gen5 is KP gen 4. Im not solid on any of the physics so this is a work in progress and any feedback or PRs are greatly appreciated! 
 
 ## Installation
 
